@@ -73,7 +73,9 @@ Limiter le périmètre à deux ou trois écrans : modèles, planning de la semai
 Le Prototype est utile lorsque les objets sont coûteux ou complexes à créer et qu'ils se ressemblent beaucoup.
 Il réduit le couplage avec les classes concrètes et améliore la réutilisation des configurations.
 Il impose en revanche une gestion rigoureuse de la copie profonde, sous peine de partager involontairement des données.
-Sources
+
+
+Sources :
 Refactoring Guru, Prototype : https://refactoring.guru/fr/design-patterns/prototype
 Refactoring Guru, Prototype en Java, exemple : https://refactoring.guru/fr/design-patterns/prototype/java/example
 Wikibooks, Patrons de conception / Prototype : https://fr.wikibooks.org/wiki/Patrons_de_conception/Prototype
